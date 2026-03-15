@@ -2,6 +2,6 @@
 
 ![gopher dancing](./dancing-gopher.gif)
 
-![rust dancing](./ferris-rust.gif)
+![rust dancing](./yes.gif)
 
 
