@@ -1,5 +1,6 @@
 
-![banner](./banner.png)
+<img width="2560" height="1440" alt="Untitled design" src="https://github.com/user-attachments/assets/0897cf57-c88d-4163-893b-b4d52a610a5e" />
+[banner](./banner.png)
 
 ---
 
