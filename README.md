@@ -12,13 +12,13 @@
 
 <br>
 
-**about**
+> **about**
 
 I build backend systems, distributed applications, and developer tooling.
 
 <br>
 
-**selected work**
+> **selected work**
 
 [**TrueMetaverse**](https://github.com/Shivam583-hue/TrueMetaverse) — self-hosted realtime 2D world with authoritative multiplayer, collaborative tools, media infrastructure, and containerized deployment.
 
@@ -28,7 +28,7 @@ I build backend systems, distributed applications, and developer tooling.
 
 <br>
 
-**stack**
+> **stack**
 
 ```text
 Core stack
