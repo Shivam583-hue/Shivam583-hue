@@ -22,9 +22,9 @@ I build backend systems, distributed applications, and developer tooling.
 
 [**TrueMetaverse**](https://github.com/Shivam583-hue/TrueMetaverse) — self-hosted realtime 2D world with authoritative multiplayer, collaborative tools, media infrastructure, and containerized deployment.
 
-[**True Flashcards**](https://github.com/Shivam583-hue/trueflashcard) — full-stack spaced-repetition platform with FSRS scheduling, a Next.js client, and a Go backend.
+[**True Flashcards**](https://github.com/Shivam583-hue/trueflashcard) — full-stack spaced-repetition platform with FSRS scheduling, a Next.js web client, a expo react native mobile client, and a shared Go backend.
 
-[**TrueCoder**](https://github.com/Shivam583-hue/TrueCoder) — terminal-native coding agent with controlled tool execution, project-aware instructions, and persistent sessions.
+[**TrueCoder**](https://github.com/Shivam583-hue/TrueCoder) — terminal coding agent that runs every command policy checked, approved, sandboxed, and durably audited. Subagents, MCP, and context compaction included
 
 <br>
 
