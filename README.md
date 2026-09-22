@@ -20,11 +20,14 @@ I build backend systems, distributed applications, and developer tooling.
 
 > **selected work**
 
-[**TrueMetaverse**](https://github.com/Shivam583-hue/TrueMetaverse) — self-hosted realtime 2D world with authoritative multiplayer, collaborative tools, media infrastructure, and containerized deployment.
+[**TrueCoder**](https://github.com/Shivam583-hue/TrueCoder): terminal coding agent with a policy-gated execution plane, checkpointed and undoable edits, MCP/LSP tooling, durable audit trails, and optional Docker isolation.
 
-[**True Flashcards**](https://github.com/Shivam583-hue/trueflashcard) — full-stack spaced-repetition platform with FSRS scheduling, a Next.js web client, a expo react native mobile client, and a shared Go backend.
+[**TrueStore**](https://github.com/Shivam583-hue/TrueStore): C++23 Redis-style in-memory data store with RESP pipelining, radix-tree streams, transactions, replication, AOF/RDB persistence, Pub/Sub, and authentication.
 
-[**TrueCoder**](https://github.com/Shivam583-hue/TrueCoder) — terminal coding agent that runs every command policy checked, approved, sandboxed, and durably audited. Subagents, MCP, and context compaction included
+[**TrueMetaverse**](https://github.com/Shivam583-hue/TrueMetaverse): self-hosted realtime 2D world with an authoritative WebSocket server, server-owned game state, LiveKit WebRTC media, collaborative tools, and containerized deployment.
+
+[**True Flashcards**](https://github.com/Shivam583-hue/trueflashcard): spaced-repetition platform with a Go backend serving generated Next.js and Expo clients over Connect/gRPC, plus a from-scratch FSRS-style scheduler.
+
 
 <br>
 
